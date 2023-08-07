@@ -1,0 +1,297 @@
+{
+  "headerWording": {
+    "about": {
+      "title": "",
+      "content": ""
+    },
+    "activity": {
+      "title": "社群活動",
+      "content": "BizPro 透過多元的課外社群活動，培養緊密的社群連結，並促進成員們互相交流與成長。"
+    },
+    "journey": {
+      "junior": {
+        "title": "第一學期：Junior 新進社員",
+        "content": "經過兩階段的面試之後進入 BizPro，開始接受為期 6 個月的客製化課程、專案訓練，順利完成所有的專業商業訓練後，將晉升為 Senior。"
+      },
+      "senior": {
+        "title": "第二學期：Senior 社團幹部",
+        "content": "完成 Junior 訓練後所有成員將成為 Senior，負責社團教學、活動、公關等面向營運，並藉由進階課程、專案，持續精進專業能力。任期結束後將成為 BizPro 的 Alumni。"
+      },
+      "alumni": {
+        "title": "一學年後：Alumni 歷屆成員",
+        "content": "活躍於各產業領域的 Alumni 將透過擔任社員 Mentor、專案評審、社課講師的方式，持續回饋 BizPro。也會透過不定期餐會與 BizPro 廣大的社群保持緊密的連結。"
+      }
+    },
+    "article": {
+      "title": "成員心得",
+      "content": "收錄 BizPro Alumni 們在經過 BizPro 的訓練後，對於自身職涯發展與自我學習上的心得"
+    },
+    "member": {
+      "title": "歷屆成員",
+      "content": "「人」是 BizPro 社團最重要的資產，我們十分珍惜每一位加入 BizPro 的成員，並以嚴謹的組織架構及階段性任務，讓每位成員在不同時期皆能獲得學習與成長，成為各領域的佼佼者。"
+    }
+  },
+  "articleTemp": [
+    {
+      "name": "Megan",
+      "number": "5th",
+      "jobTitle": "財務金融學系",
+      "title": "BizPro 鼓勵探索、樂於互助的精神造就現在的我！！",
+      "content": "綜觀學生時期到現在工作幾年，回想加入 BizPro 這個決定，除了打磨解決問題與溝通能力讓我在求職期間更有信心以外，BizPro 鼓勵探索與樂於互助的兩個核心精神對我有更深遠的影響，也造就了現在的我。\n\n#鼓勵探索\nBizPro 的成員背景多元，在職涯發展上，社團內沒有標準答案，只有最適合自己的答案。",
+      "tags": ["顧問業"]
+    },
+    {
+      "name": "Anthony",
+      "number": "11th",
+      "jobTitle": "Gerena Data Analyst",
+      "title": "BizPro 提供的商業技能，對於偏向工程的職涯也扮演至關重要的角色",
+      "content": "對於當時還是學生的我，BizPro 不僅提供我商業分析上的能力，也塑造了非常難得的同儕環境，對於職涯發展以及視野開拓都有非常大的助益。\n\n#商業化的思維對於未來的工作能力有非常直接的幫助\n即使目前工作偏向涉略工程上的知識，我仍然認為 BizPro 所學的商業技能至關重要。例如，必須以商業化的角度思考此項資料專案能否解決我們目前的商業問題？預估的改善幅度為何？而當專案開發完成後，該如何根據量化結果解釋其商業意義？根據測試結果，可以怎麼改進？透過 BizPro 的每週課程安排，不僅能學習到這些商業判斷的本質與工具，更能夠以「效率」為主要思維進行架構化的分析。簡而言之，BizPro 的課程對於未來的工作能力有非常直接的幫助。\n\n#BizPro所塑造的同儕環境可以幫助彼此快速成長\n不過，我個人覺得最重要的還是 BizPro 所塑造的環境，能夠快速地幫助彼此成長。經過了在社團一年與同屆夥伴的奮戰，我理解到想把專案管理好，並不單靠一個人就能獨立完成，而是需要大家共同投注心力。因此，我們都非常在意整體社員的成長。在 BizPro 中，每個人都可以很直接地提供反饋、為的就是希望對方能夠成為更優秀的自己。同時，也時常有聚會分享各自的所見所聞。我認為像這樣願意貢獻的環境是非常難能可貴、且值得維繫的。\n\n如果你渴望提升自己的能力，並且不吝分享、希望與同伴相互成長，我們正在尋找志同道合的夥伴一齊加入。期許你經過 BizPro 的訓練後，能夠成為具有專業素養的自己、也願意一起守護並茁壯 BizPro 特別的環境。",
+      "tags": ["科技業"]
+    },
+    {
+      "name": "Anthony",
+      "number": "11th",
+      "jobTitle": "Gerena Data Analyst",
+      "title": "BizPro 提供的商業技能，對於偏向工程的職涯也扮演至關重要的角色",
+      "content": "對於當時還是學生的我，BizPro 不僅提供我商業分析上的能力，也塑造了非常難得的同儕環境，對於職涯發展以及視野開拓都有非常大的助益。\n\n#商業化的思維對於未來的工作能力有非常直接的幫助\n即使目前工作偏向涉略工程上的知識，我仍然認為 BizPro 所學的商業技能至關重要。例如，必須以商業化的角度思考此項資料專案能否解決我們目前的商業問題？預估的改善幅度為何？而當專案開發完成後，該如何根據量化結果解釋其商業意義？根據測試結果，可以怎麼改進？透過 BizPro 的每週課程安排，不僅能學習到這些商業判斷的本質與工具，更能夠以「效率」為主要思維進行架構化的分析。簡而言之，BizPro 的課程對於未來的工作能力有非常直接的幫助。\n\n#BizPro所塑造的同儕環境可以幫助彼此快速成長\n不過，我個人覺得最重要的還是 BizPro 所塑造的環境，能夠快速地幫助彼此成長。經過了在社團一年與同屆夥伴的奮戰，我理解到想把專案管理好，並不單靠一個人就能獨立完成，而是需要大家共同投注心力。因此，我們都非常在意整體社員的成長。在 BizPro 中，每個人都可以很直接地提供反饋、為的就是希望對方能夠成為更優秀的自己。同時，也時常有聚會分享各自的所見所聞。我認為像這樣願意貢獻的環境是非常難能可貴、且值得維繫的。\n\n如果你渴望提升自己的能力，並且不吝分享、希望與同伴相互成長，我們正在尋找志同道合的夥伴一齊加入。期許你經過 BizPro 的訓練後，能夠成為具有專業素養的自己、也願意一起守護並茁壯 BizPro 特別的環境。",
+      "tags": ["科技業"]
+    },
+    {
+      "name": "Anthony",
+      "number": "11th",
+      "jobTitle": "Gerena Data Analyst",
+      "title": "BizPro 提供的商業技能，對於偏向工程的職涯也扮演至關重要的角色",
+      "content": "對於當時還是學生的我，BizPro 不僅提供我商業分析上的能力，也塑造了非常難得的同儕環境，對於職涯發展以及視野開拓都有非常大的助益。\n\n#商業化的思維對於未來的工作能力有非常直接的幫助\n即使目前工作偏向涉略工程上的知識，我仍然認為 BizPro 所學的商業技能至關重要。例如，必須以商業化的角度思考此項資料專案能否解決我們目前的商業問題？預估的改善幅度為何？而當專案開發完成後，該如何根據量化結果解釋其商業意義？根據測試結果，可以怎麼改進？透過 BizPro 的每週課程安排，不僅能學習到這些商業判斷的本質與工具，更能夠以「效率」為主要思維進行架構化的分析。簡而言之，BizPro 的課程對於未來的工作能力有非常直接的幫助。\n\n#BizPro所塑造的同儕環境可以幫助彼此快速成長\n不過，我個人覺得最重要的還是 BizPro 所塑造的環境，能夠快速地幫助彼此成長。經過了在社團一年與同屆夥伴的奮戰，我理解到想把專案管理好，並不單靠一個人就能獨立完成，而是需要大家共同投注心力。因此，我們都非常在意整體社員的成長。在 BizPro 中，每個人都可以很直接地提供反饋、為的就是希望對方能夠成為更優秀的自己。同時，也時常有聚會分享各自的所見所聞。我認為像這樣願意貢獻的環境是非常難能可貴、且值得維繫的。\n\n如果你渴望提升自己的能力，並且不吝分享、希望與同伴相互成長，我們正在尋找志同道合的夥伴一齊加入。期許你經過 BizPro 的訓練後，能夠成為具有專業素養的自己、也願意一起守護並茁壯 BizPro 特別的環境。",
+      "tags": ["科技業"]
+    },
+    {
+      "name": "Anthony",
+      "number": "11th",
+      "jobTitle": "Gerena Data Analyst",
+      "title": "BizPro 提供的商業技能，對於偏向工程的職涯也扮演至關重要的角色",
+      "content": "對於當時還是學生的我，BizPro 不僅提供我商業分析上的能力，也塑造了非常難得的同儕環境，對於職涯發展以及視野開拓都有非常大的助益。\n\n#商業化的思維對於未來的工作能力有非常直接的幫助\n即使目前工作偏向涉略工程上的知識，我仍然認為 BizPro 所學的商業技能至關重要。例如，必須以商業化的角度思考此項資料專案能否解決我們目前的商業問題？預估的改善幅度為何？而當專案開發完成後，該如何根據量化結果解釋其商業意義？根據測試結果，可以怎麼改進？透過 BizPro 的每週課程安排，不僅能學習到這些商業判斷的本質與工具，更能夠以「效率」為主要思維進行架構化的分析。簡而言之，BizPro 的課程對於未來的工作能力有非常直接的幫助。\n\n#BizPro所塑造的同儕環境可以幫助彼此快速成長\n不過，我個人覺得最重要的還是 BizPro 所塑造的環境，能夠快速地幫助彼此成長。經過了在社團一年與同屆夥伴的奮戰，我理解到想把專案管理好，並不單靠一個人就能獨立完成，而是需要大家共同投注心力。因此，我們都非常在意整體社員的成長。在 BizPro 中，每個人都可以很直接地提供反饋、為的就是希望對方能夠成為更優秀的自己。同時，也時常有聚會分享各自的所見所聞。我認為像這樣願意貢獻的環境是非常難能可貴、且值得維繫的。\n\n如果你渴望提升自己的能力，並且不吝分享、希望與同伴相互成長，我們正在尋找志同道合的夥伴一齊加入。期許你經過 BizPro 的訓練後，能夠成為具有專業素養的自己、也願意一起守護並茁壯 BizPro 特別的環境。",
+      "tags": ["科技業"]
+    }
+  ],
+  "memberTemp": [
+    {
+      "name": "Megan",
+      "number": "創社元老",
+      "jobTitle": "BCG Consultant",
+      "exp": [
+        "WEF Taipei Global Shaper",
+        "Morgan Stanley IBD Intern",
+        "UBS Investment Bank Summer Analyst",
+        "Exchange in University of Helskin, Finland",
+        "臺灣大學財務金融學系"
+      ],
+      "tags": ["顧問業", "金融業"],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Hector",
+      "number": "創社元老",
+      "jobTitle": "臺灣大學國際企業所",
+      "exp": [
+        "Allianz Group Intern",
+        "Bexcel Consultants Intern",
+        "Bain & Co. Intern",
+        "Exchange in University of Queensland in Australia",
+        "中國人民大學數學系"
+      ],
+      "tags": ["銀行業"],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Peggy",
+      "number": "創社元老",
+      "jobTitle": "Yahoo Sr. Specialist",
+      "exp": [
+        "Yahoo Sr. Strategy Planner",
+        "Nielsen Retailer Services Assistant",
+        "浙江大學管理學院交換",
+        "臺灣大學國際企業學系"
+      ],
+      "tags": ["設計產業", "軟體開發"],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Nelson",
+      "number": "創社元老",
+      "jobTitle": "MediaTek Engineer",
+      "exp": [
+        "Carnegie Mellon University, Master of Computational Data Science",
+        "第17屆臺大盃全國橋藝競賽總召",
+        "臺灣大學資訊管理研究所碩士",
+        "臺灣大學資訊管理學系"
+      ],
+      "tags": ["科技業"],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Hank",
+      "number": "創社元老",
+      "jobTitle": "Google HQ Software Engineer",
+      "exp": [
+        "三篇IEEE國際論文   第一作者",
+        "臺灣大學電子所碩士",
+        "臺灣大學電機工程學系",
+        "臺灣大學財務金融學系"
+      ],
+      "tags": ["公益", "科技業"],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Claire",
+      "number": "2nd",
+      "jobTitle": "P&G Assistant Brand Manager",
+      "exp": ["Mckinsey & Co. R&I Intern", "臺灣大學財務金融學系"],
+      "tags": ["設計業", "軟體開發"],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Michelle",
+      "number": "2nd",
+      "jobTitle": "Citi Corporate & Investment Bank",
+      "exp": ["UBS Investment Bank", "臺灣大學財務金融學系"],
+      "tags": ["公益", "教育產業"],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Paula",
+      "number": "2nd",
+      "jobTitle": "Teach for Taiwan Director of Operations",
+      "exp": [
+        "UBS Intern",
+        "KPMG Intern",
+        "Columbia University MPA",
+        "臺灣大學會計學系"
+      ],
+      "tags": ["會計業", "公益"],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Joyce",
+      "number": "2nd",
+      "jobTitle": "THLK Attorney-at-Law",
+      "exp": [
+        "Taiwan Taoyuan District Court Law Clerk",
+        "UBS Investment Bank Equity Deriatives PTA",
+        "臺灣大學科法所碩士",
+        "臺灣大學經濟學系"
+      ],
+      "tags": ["法律", "經濟"],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Jenny",
+      "number": "2nd",
+      "jobTitle": "PwC Taipei office Tax consultant",
+      "exp": ["PwC Intern", "臺大醫鯊游泳社總務", "臺灣大學會計學系"],
+      "tags": ["", ""],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Charlie",
+      "number": "2nd",
+      "jobTitle": "臺灣大學經濟學系",
+      "exp": [
+        "UBS Investment Bank Equity Reseach Intern",
+        "Goldman Sachs summer Intern",
+        "Grand Cathay Securities Summer Analyst",
+        "Fubon Securities Sales & Trading Winter Intern",
+        "Exchange in University of Hong Kong"
+      ],
+      "tags": ["", ""],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Alistair",
+      "number": "2nd",
+      "jobTitle": "Asus Oversea Sales",
+      "exp": ["臺灣大學工商管理學系"],
+      "tags": ["", ""],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Cindy",
+      "number": "3rd",
+      "jobTitle": "StorySense Computing Strategist",
+      "exp": [
+        "StorySense Computing Strategist",
+        "Pebbo Project Coordinator",
+        "SLP (Startup Leadership Program) Taipei Fellow",
+        "IBM Mentoring Program",
+        "臺灣大學電機工程學系"
+      ],
+      "tags": ["", ""],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Karen",
+      "number": "3rd",
+      "jobTitle": "The Wharton School MBA candidate",
+      "exp": [
+        "McKinsey & Company Associate",
+        "Mckinsey&Co. Intern",
+        "HSBC Summer Intern",
+        "Tong Shen Enterprise Summer Intern",
+        "Exchange in Rotterdam School of Management Erasmus University",
+        "臺灣大學國際企業系"
+      ],
+      "tags": ["", ""],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Haas",
+      "number": "3rd",
+      "jobTitle": "Macquarie Associate Analyst",
+      "exp": [
+        "Athena Capital Management Equity Research Intern",
+        "Cathay Life Insurance Investment Accounting Intern",
+        "臺大種子教育社公關長",
+        "臺灣大學機械工程學系"
+      ],
+      "tags": ["機械領域", ""],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Eric",
+      "number": "3rd",
+      "jobTitle": "臺灣大學醫學系",
+      "exp": [
+        "Exchange in University of California, Berkeley",
+        "第41屆國際化學奧林匹亞競賽 金牌",
+        "第19屆國際生物奧林匹亞競賽 金牌"
+      ],
+      "tags": ["醫學", ""],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Jean",
+      "number": "3rd",
+      "jobTitle": "Wayfair Data Scientist (Forecasting)",
+      "exp": [
+        "UC Berkeley Master in Operations Research",
+        "花旗銀行決策管理部門/消金MA",
+        "QIC Research Intern",
+        "臺大模擬聯合國社學術部",
+        "臺灣大學財務金融學系"
+      ],
+      "tags": ["醫學", ""],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    },
+    {
+      "name": "Peter",
+      "number": "3rd",
+      "jobTitle": "Corning Manufacturing Strategy Program Manager",
+      "exp": [
+        "DKSH Business Development Specialist",
+        "University of Illinois at Urbana-Champaign Technology Management Master",
+        "臺灣大學資訊管理學系"
+      ],
+      "tags": ["醫學", ""],
+      "avatar": "https://i.imgur.com/vuB0zi7.jpg"
+    }
+  ]
+}
